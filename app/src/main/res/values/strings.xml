@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Damilola Shemfe</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Damilola.
+        I\'m a Gamer, programmer and graphic designer.
+
+        No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in
+any form or by means electronic, mechanical, photocopying, or otherwise, without prior written
+permission of the publisher.
+Many of the designations used by manufacturers and sellers to distinguish their products are
+claimed as trademarks. Where those designations appear in the book, and Manning
+Publications was aware of a trademark claim, the designations have been printed in initial caps
+or all caps.
+
+Recognizing the importance of preserving what has been written, it is Manning’s policy to have
+the books we publish printed on acid-free paper, and we exert our best efforts to that end.
+Recognizing also our responsibility to conserve the resources of our planet, Manning books
+are printed on paper that is at least 15 percent recycled and processed without the use of
+elemental chlorine.
+
+        When I visited JetBrains for the first time in Spring 2010, I came in fairly certain that
+the world didn’t need another general-purpose programming language. I thought
+that existing JVM languages were good enough, and who in their right mind creates a
+new language anyway? After about an hour discussing production issues in large-scale
+codebases I was convinced otherwise, and the first ideas that later became part of Kotlin
+were sketched on a whiteboard. I joined JetBrains shortly after to lead the design
+of the language and work on the compiler.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
